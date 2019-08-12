@@ -19,5 +19,5 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "be732c61455d0ec5da29fe9b9f346b4952843c40"
+  "gitHead": "f3d984a416350c5064e087cd579f519a27149a4e"
 }
