@@ -1,5 +1,5 @@
 {
-  "name": "lernatest2",
+  "name": "@go7hic/lernatest2",
   "version": "1.0.1",
   "description": "> TODO: description",
   "author": "Go7hic <gtfx0209@qq.com>",
@@ -18,5 +18,6 @@
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
-  }
+  },
+  "gitHead": "7ac3569ec799d1a8b039ee66c7807399885ba47c"
 }
